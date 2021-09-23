@@ -80,9 +80,7 @@ namespace BD_apstrade
                 chart1.Series[1].Points.DataBindXY(X, Y_Diff);
             }));
         }
-
-     
-
+             
         private void ReadData_Click(object sender, EventArgs e)
         {
             string FileName = TextFileName.Text;
