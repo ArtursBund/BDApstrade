@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BD_apstrade", "BD_apstrade\BD_apstrade.csproj", "{B284C408-2390-4644-9E66-D6C6E9FFA0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B284C408-2390-4644-9E66-D6C6E9FFA0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B284C408-2390-4644-9E66-D6C6E9FFA0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B284C408-2390-4644-9E66-D6C6E9FFA0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B284C408-2390-4644-9E66-D6C6E9FFA0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC9C316C-47C8-461E-853F-4244A4FE3DF5}
+	EndGlobalSection
+EndGlobal
